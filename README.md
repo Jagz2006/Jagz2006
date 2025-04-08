@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Jagz2006
 - 👀 I’m interested in Frontend and Backend development
 - 🌱 I’m currently focused on DSA and trying to lean Data Analysis
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : 
 Instagram handle: https://www.instagram.com/_jags______/
 Linkedin Profile: https://www.linkedin.com/in/jagreeti-datta-8794a0277/
