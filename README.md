@@ -1,6 +1,8 @@
-- 👋 Hi, I’m @Jagz2006
-- 👀 I’m interested in Frontend and Backend development
-- 🌱 I’m currently focused on DSA and trying to lean Data Analysis
+-👋 Hi, I'm Jagreeti! 
+- 🚀 I enjoy solving challenging problems in **Competitive Programming**  
+- 🧩 Exploring **Data Structures & Algorithms** to sharpen my logical thinking  
+- 📊 Learning and building projects in **Data Science**  
+- 🌱 Always curious to learn, build, and share  
 - 📫 How to reach me : 
 Instagram handle: https://www.instagram.com/_jags______/
 Linkedin Profile: https://www.linkedin.com/in/jagreeti-datta-8794a0277/
